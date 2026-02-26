@@ -1,4 +1,0 @@
-# Belirli klasörleri veya dosyaları dil istatistiklerinden muaf tutar
-static/**/* linguist-detectable=false
-docs/**/* linguist-detectable=false
-*.css linguist-detectable=false
